@@ -1,1 +1,1 @@
-<a href= "C:\Mine\Относительно важно\cat.gif"/></a>
+<a href= "C:\Mine\cat.gif"/></a>
