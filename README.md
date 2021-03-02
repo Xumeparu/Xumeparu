@@ -1,3 +1,3 @@
 <p align="center">
-<iframe src="https://gifer.com/embed/9ffj" width=480 height=276.000 frameBorder="0" allowFullScreen></iframe>
+<img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/>
 </p>
