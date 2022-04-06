@@ -1,3 +1,5 @@
 <p align="center">
-<img style=" height: 400px; " src="https://data.whicdn.com/images/285147573/original.gif" />
+  <div style="height: 200px">
+    <img src="https://data.whicdn.com/images/285147573/original.gif" />
+  </div>
 </p>
